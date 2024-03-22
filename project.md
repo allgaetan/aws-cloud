@@ -1,6 +1,4 @@
-### Gaétan ALLAIRE, Cloud and Edge infrastructures - Repeat Project
-
-> **_NOTE:_** I could eventually finish the project with the third AWS account so every part of the code should work if the configuration was followed correctly.
+### Gaétan ALLAIRE, Cloud and Edge infrastructures Project
 
 # Proposed architecture
 
