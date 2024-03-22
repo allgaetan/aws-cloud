@@ -1,4 +1,4 @@
-### Gaétan ALLAIRE, Cloud and Edge infrastructures - Repeat Project
+### Gaétan ALLAIRE, Cloud and Edge infrastructures Project
 
 # Configuration 
 
